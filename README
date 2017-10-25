@@ -1,5 +1,5 @@
 /*
- *	Author:   Barbu Florina, 331AA
+ *	Author:   Barbu Florina
  *
  *  Theme:    Parallel Events Processing
  *  Language: Java Concurrent
@@ -9,7 +9,7 @@
  */
 
  Preliminarii: 
- 	Scopul  acestei  teme  este  implementarea  unui  sistem de  prelucrare paralelă  a  unor  evenimente provenind de la mai multe surse.
+ 	Scopul  este  implementarea  unui  sistem de  prelucrare paralelă  a  unor  evenimente provenind de la mai multe surse.
  	Asadar, dandu-se mai multe fisiere cu diferite informatii
  (timp, nume operatie aplicata supra unei valori, valoare) noi trebuie sa le parsam continutul si sa aplicam algoritmul specificat.
  
